@@ -22,7 +22,7 @@
 ## Features:
 
 - Easy SignIn with Google
-- Create Rooms
+- Create Rooms / Chat with friends
 - Realtime group messaging with image sharing
 - Supports Emoji
 - Reaction on messages
